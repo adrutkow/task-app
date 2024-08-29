@@ -1,0 +1,5 @@
+# Exceptions
+# Nom, tache, jour
+
+Adam, cuisine, *
+Franck, etage_3, Lundi
